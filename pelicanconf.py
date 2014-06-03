@@ -37,6 +37,7 @@ THEME = 'themes/svbhack'
 USER_LOGO_URL = SITEURL + '/theme/images/logo.jpg'
 TAGLINE = 'The Plural of Anecdote'
 STATIC_PATHS = ['images', 'pdfs']
+TYPOGRIFY(True)
 
 FILENAME_METADATA = '(?P<slug>.*)'  # use markdown file name as the slug meta
 USE_FOLDER_AS_CATEGORY = True       # use folder name as posts' category
