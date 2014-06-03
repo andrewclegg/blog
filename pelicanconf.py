@@ -4,7 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Andrew Clegg'
 SITENAME = u'The Plural of Anecdote'
-SITEURL = 'http://andrewclegg.github.io'
+SITEURL = ''
+RELATIVE_URLS = True
 
 TIMEZONE = 'Europe/London'
 
