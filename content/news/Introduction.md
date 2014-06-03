@@ -1,6 +1,7 @@
 Title: Introduction
 Date: 2014-06-02
 Tags: intro, test, pelican
+Summary: Releasing Snake Charmer has inspired me to start blogging again, so welcome to the new blog.
 
 Releasing [Snake Charmer](https://github.com/andrewclegg/snake-charmer) has inspired me to start blogging again, so welcome to the new blog.
 
