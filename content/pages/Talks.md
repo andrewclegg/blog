@@ -6,6 +6,8 @@ In June 2014 I'm on a [panel discussion about big data](http://www.itleadersforu
 
 In November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
 
+I'm hoping to present [Snake Charmer](https://github.com/andrewclegg/snake-charmer) to PyData London soon &mdash; details TBA.
+
 #### Slides and videos from past events
 
 Slides from an earlier version of [Lies, damned lies and dataviz](http://www.slideshare.net/AndrewClegg1/lies-damned-lies-dataviz), at the Big Data Innovation Summit 2014.
