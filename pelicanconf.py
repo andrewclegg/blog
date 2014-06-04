@@ -49,4 +49,4 @@ PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = PAGE_URL
 CATEGORY_URL = '{slug}/index.html'
 CATEGORY_SAVE_AS = CATEGORY_URL
-
+DISQUS_SITE = 'thepluralofanecdote'
