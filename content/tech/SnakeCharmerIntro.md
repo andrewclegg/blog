@@ -37,7 +37,7 @@ Of course, since it's just a standard Ubuntu box running standard Python, you ca
 
 Here are some of the useful things you can do with VMs, either via Vagrant commands, or through VirtualBox's admin app.
 
-**Disposability.** Normally, you wouldn't store data or code *within* the VM, you would use it to run notebooks and read data files from your physical computer. This means if you mess up your VM somehow, you can just delete it and create a new, identical one. Think of them as disposable commodities that it's not even worth fixing.
+**Disposability.** Normally, you wouldn't store data or code *within* the VM, you would use it to run notebooks and read data files from your physical computer. This means if you mess up your VM somehow, you can just delete it and create a new, identical one. Think of them as disposable commodities that aren't even worth fixing.
 
 **Snapshots and rollbacks.** On the other hand, you might want to make some persistent changes to a VM, like trying out a new package, or a new version of a library. You can take a *snapshot* of a whole VM before making a change or taking an action, and if necessary, undo it by rolling back the whole VM to the snapshot. You could also use this feature to save the state of the VM at intermediate points along an analysis pipeline. It's also a good idea to make a snapshot after you first create a fresh VM, as rolling back is much quicker than installing a new one from scratch.
 
