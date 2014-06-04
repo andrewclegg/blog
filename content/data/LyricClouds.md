@@ -1,7 +1,7 @@
 Title: Lyric clouds, genre maps and distinctive words
 Date: 2014-06-04
 Tags: music, lyrics, lastfm, IR, visualization
-Summary: Repost of an article I wrote for the Last.fm blog in 2011.
+Summary: Repost of an article I wrote for the Last.fm blog in 2011. What do different genres of music look like if you visualize the words used in their lyrics? The results are... Eye-opening.
 
 *This is a repost of an [article](http://blog.last.fm/2011/06/22/lyric-clouds-genre-maps-and-distinctive-words) I wrote for the Last.fm blog while working there in 2011. The images disappeared from Last.fm so I'm serving them out of the wonderful [Internet Archive](http://web.archive.org).*
 
