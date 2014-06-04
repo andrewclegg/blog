@@ -37,7 +37,7 @@ DEFAULT_DATE = 'fs'
 THEME = 'themes/svbhack'
 USER_LOGO_URL = SITEURL + '/theme/images/logo.jpg'
 TAGLINE = 'The Plural of Anecdote'
-STATIC_PATHS = ['images', 'pdfs']
+STATIC_PATHS = ['images', 'pdfs', 'favicon.ico']
 TYPOGRIFY = True
 
 FILENAME_METADATA = '(?P<slug>.*)'  # use markdown file name as the slug meta
@@ -50,3 +50,5 @@ PAGE_SAVE_AS = PAGE_URL
 CATEGORY_URL = '{slug}/index.html'
 CATEGORY_SAVE_AS = CATEGORY_URL
 DISQUS_SITE = 'thepluralofanecdote'
+
+
