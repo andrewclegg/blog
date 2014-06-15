@@ -10,5 +10,7 @@ As well as functionality, speed and accuracy, Jake also covered installation, an
 
 This is exactly the kind of reason why I started [Snake Charmer](https://github.com/andrewclegg/snake-charmer) in the first place. Installing it and getting the tests passing on Snake Charmer's Ubuntu VM was -- well not entirely trivial, but an hour or two at the very most. And once it works for me, it works for everyone. You'll now get PyStan and the slightly less fiddly emcee as standard with every Snake Charmer VM -- so, err, forget your unpleasant prior experiences and raise your expectations. (Sorry...)
 
-One last note: if you try to reproduce Jake's tutorial in Snake Charmer, you may notice some differences, as Snake Charmer's on PyMC 3 already. However, here's a [note from Thomas Wiecki](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/#comment-1436231209) showing the equivalent steps in PyMC 3.
+I think this makes Snake Charmer the first Python distribution to include all three of these tools.
+
+One last note: if you try to reproduce Jake's tutorial in Snake Charmer, you may notice some differences. He uses PyMC 2 but Snake Charmer's on a pre-release of version 3 already. (Given limited time to work on this, I'd rather stay ahead of the game...) However, here's a [note from Thomas Wiecki](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/#comment-1436231209) showing the equivalent steps in PyMC 3.
 
