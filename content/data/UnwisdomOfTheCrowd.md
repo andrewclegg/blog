@@ -5,7 +5,7 @@ Summary: "Vanity metrics" is a phrase I've heard cropping up a few times recentl
 
 #### Or, why Google Analytics is not a good analytics tool.
 
-*This is a repost of an article I wrote for an internal Pearson blog recently. My colleague [Tendayi](https://twitter.com/tendayiviki) encouraged me to repost it here, so it could reach a wider audience.*
+*This is a slightly modified repost of an article I wrote for an internal Pearson blog recently. My colleague [Tendayi](https://twitter.com/tendayiviki) encouraged me to post it here, so it could reach a wider audience.*
 
 "Vanity metrics" is a phrase I've heard cropping up a few times recently, in the context of growth engineering, the lean startup movement, and discussions around product lifecycles. It's hard to find any agreement on what metrics are vanity metrics, but in general it seems to refer to metrics that product owners measure and report in order to boast about growth, but which don't themselves prove anything about value or guide decision-making. Numbers of logins, of resources viewed, of content items downloaded, or of messages sent &mdash; these might be considered vanity metrics, depending on the product. This seemed a bit strange to me, because in my world, all these metrics are extremely valuable.
 
