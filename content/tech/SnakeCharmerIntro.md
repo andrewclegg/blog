@@ -1,6 +1,6 @@
 Title: Snake Charmer: the all-in-one data science toolbox for Python 3
 Date: 2014-06-04
-Tags: snake-charmer, vagrant, salt, virtualbox, virtualization, python
+Tags: snake charmer, vagrant, salt, virtualbox, virtualization, python
 Summary: Wouldn't it be great if you could magic up an IPython Notebook server, complete with SciPy, Pandas, Matplotlib, PyMC, scikit-learn, R and Octave integration, and much much more, just by typing one command? And wouldn't it be even better if you could do that from pretty much any Windows, Mac or Linux machine, and know that you'd get the exact same environment every time? That's Snake Charmer &mdash; a virtual data workbench that's reproducible, portable, shareable and up-to-date.
  
 Python's an amazing language, but it's constantly let down by its packaging and distribution infrastructure. Apologies to those people who've worked hard to fix this, but it sucks. I've wasted days in the past getting a particular set of packages to cooperate on a particular machine, only to find that the resulting combination of library files, symlinks, chicken blood and chanting doesn't work on any *other* machines.
