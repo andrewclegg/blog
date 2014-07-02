@@ -2,9 +2,9 @@ Title: Talks, slides & videos
 
 #### Upcoming events
 
-In November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
-
 I'll be running a [Snake Charmer](https://github.com/andrewclegg/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014 &mdash; watch their site for details.
+
+Then in November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
 
 #### Slides and videos from past events
 
