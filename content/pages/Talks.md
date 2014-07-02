@@ -2,11 +2,9 @@ Title: Talks, slides & videos
 
 #### Upcoming events
 
-In June 2014 I'm on a [panel discussion about big data](http://www.itleadersforum.co.uk/speakers) hosted by [Computing](http://www.computing.co.uk/).
-
 In November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
 
-I'm hoping to present [Snake Charmer](https://github.com/andrewclegg/snake-charmer) to PyData London soon &mdash; details TBA.
+I'll be running a [Snake Charmer](https://github.com/andrewclegg/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014 &mdash; watch their site for details.
 
 #### Slides and videos from past events
 
