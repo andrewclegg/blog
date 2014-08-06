@@ -2,11 +2,11 @@ Title: Talks, slides & videos
 
 #### Upcoming events
 
-I'll be running a [Snake Charmer](https://github.com/andrewclegg/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014 &mdash; watch their site for details.
-
-Then in November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
+In November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
 
 #### Slides and videos from past events
+
+I ran a [Snake Charmer](https://github.com/snake-charmer-devs/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014. Slides are [here](../pdfs/IntroToSnakeCharmer.pdf) and the demo notebook is [here](http://nbviewer.ipython.org/github/snake-charmer-devs/snake-charmer/blob/master/notebooks/Demo/Wikipedia%20edit%20stream.ipynb) -- note that the D3 demo at the end won't work via nbviewer, as it's in an iframe.
 
 Slides from an earlier version of [Lies, damned lies and dataviz](http://www.slideshare.net/AndrewClegg1/lies-damned-lies-dataviz), at the Big Data Innovation Summit 2014.
 
