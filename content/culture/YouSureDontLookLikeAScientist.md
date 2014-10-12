@@ -41,5 +41,5 @@ From talking to friends and colleagues at the time, and [discussions online](htt
 
 But there's still a long way to go. Women scientists are still under-represented in the media, and our most prominent and influential is frankly [turning out to be a bit of a crank](http://www.theguardian.com/science/head-quarters/2014/oct/03/susan-greenfield-mind-change-technology-evidence). And Dawkins has retired from his Public Understanding of Science post in order to pursue his hobby of Public Misrepresentation of Science full-time, which isn't doing anyone any favours.
 
-Of course, this is very much a UK-centric view, and frankly without the BBC and the Guardian things would look a lot less encouraging. I have no idea what the picture's like in the States, but I haven't been detained by them recently, so maybe there's hope yet.
+Of course, this is very much a UK-centric view, and without the BBC and the Guardian things would look a lot less encouraging. I have no idea what the picture's like in the States, but I haven't been detained by them recently, so maybe there's hope yet.
 
