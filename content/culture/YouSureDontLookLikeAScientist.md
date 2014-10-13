@@ -1,6 +1,6 @@
 Title: You sure don't look like a scientist
 Date: 2014-10-12
-Tags: science, travel, media
+Tags: science, travel, media, equality
 Summary: The one where Andy nearly gets thrown out of the USA for not fitting the correct stereotype.
 
 You get a little tired of people asking what you do, when the answer's "computational linguistics research in a bioinformatics group at the Institute for Structural Molecular Biology." There are enough unfamiliar terms in there to derail a light social conversation several times over, especially when you don't usually enjoy talking about work at parties. So I got into the habit of saying "I'm a scientist" and glossing over the details unless people were interested.
@@ -39,7 +39,11 @@ And then just like that, it's over. They don't phone the conference or my colleg
 
 From talking to friends and colleagues at the time, and [discussions online](https://twitter.com/AstroKatie/status/520838801006936066) more recently, "you don't look like a scientist" is a pretty common reaction. I'd hope it's much less common today, with the likes of Ben Goldacre, Simon Singh, Alice Roberts, Jim Al-Khalili and of course Brian Cox putting a more realistic face on science in the media, and I'd *really* hope the consequences of that reaction are typically much less extreme than my story.
 
-But there's still a long way to go. Women scientists are still under-represented in the media, and our most prominent and influential is frankly [turning out to be a bit of a crank](http://www.theguardian.com/science/head-quarters/2014/oct/03/susan-greenfield-mind-change-technology-evidence). And Dawkins has retired from his Public Understanding of Science post in order to pursue his hobby of Public Misrepresentation of Science full-time, which isn't doing anyone any favours.
+But there's still a long way to go. Women scientists are still under-represented in the media, and our most prominent and influential is frankly [turning out to be a bit of a crank](http://www.theguardian.com/science/head-quarters/2014/oct/03/susan-greenfield-mind-change-technology-evidence). Dawkins has retired from his Public Understanding of Science post in order to pursue his hobby of Public Misrepresentation of Science full-time, which isn't doing anyone any favours. Of course, this is very much a UK-centric view, and without the BBC and the Guardian things would look a lot less encouraging.
 
-Of course, this is very much a UK-centric view, and without the BBC and the Guardian things would look a lot less encouraging. I have no idea what the picture's like in the States, but I haven't been detained by them recently, so maybe there's hope yet.
+And let's not forget that presence of visible role models and a more welcoming atmosphere for younger scientists won't necessarily equate to better career prospects. [Recent UK figures](http://www.timeshighereducation.co.uk/news/chuka-umunna-pledges-action-on-lack-of-black-professors/2016295.article#.VDuf8ztJt6s.twitter) show that only 22% of professors are women and *less than half a percent* are black. These numbers are across all subjects but I doubt sciences fair any better than others.
+
+I have no idea what the picture's like in the States, but I haven't been detained there recently, so maybe there's hope yet.
+
+*Updated 2014-10-13 to add new figures from THE article*
 
