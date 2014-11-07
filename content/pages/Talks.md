@@ -2,7 +2,10 @@ Title: Talks, slides & videos
 
 #### Upcoming events
 
-In November I'll be speaking at [Big Data eXchange 2014](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz."
+In November 2014 I'm speaking at two events:
+
+* [Chief Data Officer Summit](http://theinnovationenterprise.com/summits/chief-data-officer-summit-london) on "Big Data, and other myths" -- an extended version of "There's no such thing as Big Data".
+* [Big Data eXchange](https://skillsmatter.com/conferences/1959-big-data-exchange-2014) on "Lies, damned lies and dataviz", a slightly more polished version of the earlier talk with the same name.
 
 #### Slides and videos from past events
 
