@@ -1,4 +1,4 @@
-Title: Talks, slides and videos
+Title: Slides and videos
 
 #### Upcoming events
 
