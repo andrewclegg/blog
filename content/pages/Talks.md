@@ -6,9 +6,9 @@ In November 2014 I'm speaking at [Big Data eXchange](https://skillsmatter.com/co
 
 #### Slides and videos from past events
 
-Slides from a talk on [Big Data and other myths](https://drive.google.com/file/d/0B1HztRme3ZjZZjA1WHFJY25lQnM/view) at the [Chief Data Officer Summit](http://theinnovationenterprise.com/summits/chief-data-officer-summit-london) in November 2014. This was an opinion piece where I skewered three of the biggest myths in data: that "big data" is a thing, that data scientists are hard to find, and that there's a magic platform out there that will solve all your data problems.
+Slides from a talk on [Big Data and other myths](https://drive.google.com/file/d/0B1HztRme3ZjZZjA1WHFJY25lQnM/view) at the [Chief Data Officer Summit](http://theinnovationenterprise.com/summits/chief-data-officer-summit-london) in November 2014. This was an opinion piece where I attempted to skewer three of the biggest myths in data: that "big data" is a thing, that data scientists are hard to find, and that there's a magic platform out there that will solve all your data problems.
 
-I ran a [Snake Charmer](https://github.com/snake-charmer-devs/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014. Slides are [here](../pdfs/IntroToSnakeCharmer.pdf) and the demo notebook is [here](http://nbviewer.ipython.org/github/snake-charmer-devs/snake-charmer/blob/master/notebooks/Demo/Wikipedia%20edit%20stream.ipynb) -- note that the D3 demo at the end won't work via nbviewer, as it's in an iframe.
+I ran a [Snake Charmer](https://github.com/snake-charmer-devs/snake-charmer) intro/tutorial at [PyData London](http://www.meetup.com/PyData-London-Meetup/) in August 2014. Slides are [here](../pdfs/IntroToSnakeCharmer.pdf) and the demo notebook can be viewed [here](http://nbviewer.ipython.org/github/snake-charmer-devs/snake-charmer/blob/master/notebooks/Demo/Wikipedia%20edit%20stream.ipynb). If you install Snake Charmer, the same notebook is included, in the Demo folder.
 
 Slides from an earlier version of [Lies, damned lies and dataviz](http://www.slideshare.net/AndrewClegg1/lies-damned-lies-dataviz), at the Big Data Innovation Summit 2014.
 
