@@ -35,7 +35,7 @@ DEFAULT_DATE = 'fs'
 THEME = 'themes/svbhack'
 USER_LOGO_URL = SITEURL + '/theme/images/logo.jpg'
 TAGLINE = 'The Plural of Anecdote'
-STATIC_PATHS = ['images', 'pdfs', 'favicon.ico']
+STATIC_PATHS = ['images', 'pdfs', 'favicon.ico', 'CNAME']
 TYPOGRIFY = True
 
 FILENAME_METADATA = '(?P<slug>.*)'  # use markdown file name as the slug meta
