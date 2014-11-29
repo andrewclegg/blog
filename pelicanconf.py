@@ -31,9 +31,6 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
 DEFAULT_DATE = 'fs'
 THEME = 'themes/svbhack'
 USER_LOGO_URL = SITEURL + '/theme/images/logo.jpg'
