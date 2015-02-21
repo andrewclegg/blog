@@ -2,11 +2,11 @@ Title: Talks and workshops
 
 #### Upcoming events
 
-I'll be presenting at a PyData London meetup in Feb 2015 &mdash; topic TBA.
+I'll be heading to [Berlin Buzzwords](http://berlinbuzzwords.de/) and [Monitorama](http://monitorama.com/) in summer 2015 to talk about timeseries data mining at Etsy. You can read more [here](../news/KaleTalk.html).
 
 #### Slides and videos from past events
 
-I gave a talk at [Big Data eXchange](https://skillsmatter.com/conferences/1959-big-data-exchange-2014), November 2014, entitled "Lies, damned lies and dataviz" on bad visualization, how to spot it, and how to avoid making the same mistakes yourself. This was a lot of fun to do, and hopefully quite instructive too. You can [watch the video courtesy of Skills Matter](https://skillsmatter.com/skillscasts/5368-lies-damned-lies-dataviz) or [click here for the slides](https://docs.google.com/presentation/d/17ujY998ng0iJLZTdG5knQC4wk5Gxytdksy4ET2i-oKM).
+I gave a talk at [Big Data eXchange](https://skillsmatter.com/conferences/1959-big-data-exchange-2014), November 2014, entitled "Lies, damned lies and dataviz" on bad visualization, how to spot it, and how to avoid making the same mistakes yourself. This was a lot of fun to do, and hopefully quite instructive too. You can [watch the video courtesy of Skills Matter](https://skillsmatter.com/skillscasts/5368-lies-damned-lies-dataviz) or [click here for the slides](https://docs.google.com/presentation/d/17ujY998ng0iJLZTdG5knQC4wk5Gxytdksy4ET2i-oKM). My [PyData London](http://www.meetup.com/PyData-London-Meetup/) talk in Feb 2015 was on the same topic.
 
 Here are the slides from a talk on [Big Data and other myths](https://drive.google.com/file/d/0B1HztRme3ZjZZjA1WHFJY25lQnM/view) at the [Chief Data Officer Summit](http://theinnovationenterprise.com/summits/chief-data-officer-summit-london) in November 2014. This was an opinion piece where I attempted to skewer three of the biggest myths in data: that "big data" is a thing, that data scientists are hard to find, and that there's a magic platform out there that will solve all your data problems.
 
