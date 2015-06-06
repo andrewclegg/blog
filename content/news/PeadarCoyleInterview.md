@@ -1,7 +1,7 @@
 Title: Interview with a Data Scientist
 Date: 2015-06-06
 Tags: interviews, data science
-Summary: An interview I did with data scientist and blogger Peadar Coyle.
+Summary: An interview I did for data scientist and blogger Peadar Coyle.
 
 *I was recently interviewed by Peadar Coyle for his data science blog, [Models are Illuminating and Wrong](https://peadarcoyle.wordpress.com/), as the latest in a series of features on people in the field. It's archived here for posterity, but I would recommend taking a look at the [whole collection](https://peadarcoyle.wordpress.com/2015/05/14/interviews-with-data-scientists-the-collection/).*
 

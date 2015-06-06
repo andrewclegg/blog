@@ -18,7 +18,7 @@ TRANSLATION_FEED_ATOM = None
 
 # Blogroll
 LINKS =  (
-          ('Blog', '/'),
+          ('Blog posts', '/'),
           ('Snake Charmer', 'https://github.com/andrewclegg/snake-charmer'),
           )
 
