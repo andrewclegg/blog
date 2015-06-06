@@ -6,7 +6,7 @@ I'll be heading to [Monitorama](http://monitorama.com/) in June 2015 to talk abo
 
 #### Slides and videos from past events
 
-I've presented Etsy's work on [mining timeseries data](../news/KaleTalk.html), including anomaly detection and similarity search, at several venues including SRECon EU and Berlin Buzzwords 2015. You can see the Buzzwords video [here](https://www.youtube.com/watch?t=651&v=sn-btkORIxg) and download the slides [here](https://drive.google.com/open?id=0B1HztRme3ZjZQWNwSmtLVGN4ZzA&authuser=1).
+I've presented Etsy's work on [mining timeseries data](../tech/KaleTalk.html), including anomaly detection and similarity search, at several venues including SRECon EU and Berlin Buzzwords 2015. You can see the Buzzwords video [here](https://www.youtube.com/watch?t=651&v=sn-btkORIxg) and download the slides [here](https://drive.google.com/open?id=0B1HztRme3ZjZQWNwSmtLVGN4ZzA&authuser=1).
 
 I gave a talk at [Big Data eXchange](https://skillsmatter.com/conferences/1959-big-data-exchange-2014), November 2014, entitled "Lies, damned lies and dataviz" on bad visualization, how to spot it, and how to avoid making the same mistakes yourself. This was a lot of fun to do, and hopefully quite instructive too. You can [watch the video courtesy of Skills Matter](https://skillsmatter.com/skillscasts/5368-lies-damned-lies-dataviz) or [click here for the slides](https://docs.google.com/presentation/d/17ujY998ng0iJLZTdG5knQC4wk5Gxytdksy4ET2i-oKM). My [PyData London](http://www.meetup.com/PyData-London-Meetup/) talk in Feb 2015 was on the same topic.
 
