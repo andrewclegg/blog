@@ -1,5 +1,7 @@
 Title: Talks and workshops
 
+Here's my talk from Data Natives 2016 in Berlin, on semantic similarity and taxonomic distance: [with presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZbExxMTd3TnRDdkE), or [without presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZY0dfaGlqRDJZRmc) (both PDF).
+
 In June 2016 I gave a talk at Berlin Buzzwords on learning to rank, introducing the field and walking through the Ranking SVM algorithm. The slides and video are available [here](https://berlinbuzzwords.de/session/learning-rank-where-search-meets-machine-learning).
 
 I've presented Etsy's work on [mining timeseries data](../tech/KaleTalk.html), including anomaly detection and similarity search, at several venues including Monitorama, SRECon EU and Berlin Buzzwords. You can see the Buzzwords video [here](https://www.youtube.com/watch?v=sn-btkORIxg&list=PLq-odUc2x7i-_qWWixXHZ6w-MxyLxEC7s&index=31) and download the slides [here](https://drive.google.com/open?id=0B1HztRme3ZjZQWNwSmtLVGN4ZzA).
