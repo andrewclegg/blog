@@ -1,7 +1,7 @@
-Title: Optimizing TensorFlow for your laptop's CPU
+Title: Optimizing TensorFlow for your laptop
 Date: 2017-05-28
 Tags: tensorflow, machine learning, deep learning, osx, macos, mac
-Summary: If you don't have access to a server with a cutting-edge GPU, it's worth building TensorFlow from scratch on your laptop or desktop Mac, to squeeze more performance out of it.
+Summary: If you don't have access to a server with a cutting-edge GPU, it's worth building TensorFlow from scratch on your laptop or desktop Mac, to squeeze more performance out of its CPU.
 
 I've recently been teaching myself [TensorFlow](https://www.tensorflow.org), and haven't spent the time and money to set up a cloud server (or physical machine!) with a GPU. I was originally running it from a pre-built Docker image, inside a Jupyter notebook, and saw a bunch of warnings like this in the console output:
 
