@@ -5,14 +5,26 @@ Summary: If you don't have access to a server with a cutting-edge GPU, it's wort
 
 I've recently been teaching myself [TensorFlow](https://www.tensorflow.org), and haven't spent the time and money to set up a cloud server (or physical machine!) with a GPU. I was originally running it from a pre-built Docker image, inside a Jupyter notebook, and saw a bunch of warnings like this in the console output:
 
-`
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE3 instructions, but these are available on your machine and could speed up CPU computations.
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
-    W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
-`
+```text
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use SSE3 instructions, but these are available on your machine and
+could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use SSE4.1 instructions, but these are available on your machine and
+could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use SSE4.2 instructions, but these are available on your machine and
+could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use AVX instructions, but these are available on your machine and
+could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use AVX2 instructions, but these are available on your machine and
+could speed up CPU computations.
+W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't
+compiled to use FMA instructions, but these are available on your machine and
+could speed up CPU computations.
+```
 
 The pre-built versions available through Docker, pip etc. tend to go for wide compatibility, which means disabling a bunch of optional speedups that aren't supported on all hardware. Thankfully, it turns out not to be too hard to build it from scratch yourself, which lets you switch all this good stuff on, and makes the process of experimentation and learning a bit less tedious.
 
@@ -40,9 +52,9 @@ Bazel also requires JDK8 which you can get from [Oracle](http://www.oracle.com/t
 
 [Bazel](https://bazel.build) is Google's build tool which is used to compile and package TF. Once Homebrew and Java are installed -- you may want to log out and log back in again to make sure environment variables etc. are set up right -- you can install Bazel by typing:
 
-`
-    brew install bazel
-`
+```text
+brew install bazel
+```
 
 ### TensorFlow
 
@@ -50,26 +62,27 @@ Finally we can actually install TensorFlow itself.
 
 I created a Conda environment to work in, first:
 
-`
-    conda create -n tensorflow
-    source activate tensorflow
-`
+```text
+conda create -n tensorflow
+source activate tensorflow
+```
 
 Although I think this is a bit moot, as the pip install step (see below) seems to install it into your Conda site-packages and make it available in all environments automatically.
 
 Then checkout TensorFlow from [GitHub](https://github.com/tensorflow/tensorflow) and cd into your local copy, and
 
-`
-    ./configure
-`
+```text
+./configure
+```
 
 to configure the build. You can switch on various optional features here, it's probably fine to leave everything as defaults though. The actual options we're interested in aren't controlled here, but via command line params when you actually build it.
 
 That's done by typing the following:
 
-`
-    bazel build -c opt --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-msse4.2 -k //tensorflow/tools/pip_package:build_pip_package
-`
+```text
+bazel build -c opt --copt=-mavx --copt=-mavx2 --copt=-mfma --copt=-msse4.2 -k \
+  //tensorflow/tools/pip_package:build_pip_package
+```
 
 This will compile TF itself, and also output a script to generate a Python package. Be warned, this will take a while! Well over an hour, probably more like two. I didn't time it exactly.
 
@@ -77,15 +90,15 @@ On some platforms you need to add `--copt=-mfpmath=both` to the set of flags abo
 
 Once it's finished, you need to bundle it into a pip wheel -- a binary distribution with a Python wrapper:
 
-`
-    bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
-`
+```text
+bazel-bin/tensorflow/tools/pip_package/build_pip_package /tmp/tensorflow_pkg
+```
 
 Then you can install this into your Conda environment. First, double-check your paths are set up right by typing `which pip` -- it should be pointing to a version of pip in your anaconda install directory. Then type:
 
-`
-    pip install /tmp/tensorflow_pkg/tensorflow-<blah>.whl
-`
+```text
+pip install /tmp/tensorflow_pkg/tensorflow-<blah>.whl
+```
 
 where `<blah>` is some long version string. Just tab-complete it -- this should be the only .whl file in that directory anyway.
 
@@ -93,12 +106,12 @@ Now we can test it works! But before that, and **this is important**, cd out of 
 
 Anyway, to test it's installed OK, run python or ipython, and:
 
-`
-    import tensorflow as tf
-    hello = tf.constant('Hello, TensorFlow!')
-    sess = tf.Session()
-    print(sess.run(hello))
-`
+```text
+import tensorflow as tf
+hello = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+print(sess.run(hello))
+```
 
 If this prints a message with no errors, you're good to go.
 
