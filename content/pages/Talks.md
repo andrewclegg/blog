@@ -1,6 +1,8 @@
 Title: Talks and workshops
 
-Here's my talk from Data Natives 2016 in Berlin, on semantic similarity and taxonomic distance: [with presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZbExxMTd3TnRDdkE), or [without presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZY0dfaGlqRDJZRmc) (both PDF).
+I gave a couple of deep learning related talks in London in Summer 2017. The first was at the [Big Data London](https://www.meetup.com/Data-Natives-London/events/238288831/) meetup hosted by Data Natives and was on deep learning for recommender systems ([slides](https://drive.google.com/open?id=0B1HztRme3ZjZYmJ2QzlnclBLRWs)). The second was at Ravelin's [Applied AI](https://www.meetup.com/AppliedAI/events/241111330/) meetup and was about representation learning for unordered item sets ([slides](https://drive.google.com/open?id=0B1HztRme3ZjZcndJY01xWXBhNjQ)).
+
+Here's my talk from Data Natives 2016 in Berlin, on semantic similarity and taxonomic distance: [video](https://www.youtube.com/watch?v=KJCplNk1NcY), and slides [with presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZbExxMTd3TnRDdkE), or [without presenter notes](https://drive.google.com/open?id=0B1HztRme3ZjZY0dfaGlqRDJZRmc).
 
 In June 2016 I gave a talk at Berlin Buzzwords on learning to rank, introducing the field and walking through the Ranking SVM algorithm. The slides and video are available [here](https://berlinbuzzwords.de/session/learning-rank-where-search-meets-machine-learning).
 
